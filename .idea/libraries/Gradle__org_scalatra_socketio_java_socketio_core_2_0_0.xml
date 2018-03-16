@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scalatra.socketio-java:socketio-core:2.0.0">
+    <CLASSES>
+      <root url="jar://E:/gradle/caches/modules-2/files-2.1/org.scalatra.socketio-java/socketio-core/2.0.0/fb9711d50b39653968a610e253109c6439261d54/socketio-core-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/gradle/caches/modules-2/files-2.1/org.scalatra.socketio-java/socketio-core/2.0.0/cafe5c8b8ca33dda267695201efbce2e1b85336b/socketio-core-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

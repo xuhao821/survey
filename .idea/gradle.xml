@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/module" />
+        <option name="gradleHome" value="D:/Program Files/gradle-4.3" />
+        <option name="gradleJvm" value="9.0" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/module" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-boot" />
+        <option name="gradleHome" value="D:/Program Files/gradle-4.3" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-boot" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/survey" />
+        <option name="gradleHome" value="D:/Program Files/gradle-4.3" />
+        <option name="gradleJvm" value="9.0" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/survey" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
